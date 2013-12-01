@@ -1,13 +1,3 @@
-/*
- * Copyright (c) ${YEAR} Mobile CAPPtivate, LLC
- * ${PRODUCT_NAME}
- * ${PROJECT_NAME}
- * ${PACKAGE_NAME}
- * ${FILE_NAME}
- * ${DATE} ${TIME}
- * ${USER}
- */
-
 package com.sample.onediegame
 
 import org.gmock.WithGMock
